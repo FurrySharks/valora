@@ -84,7 +84,7 @@ if not allowedPlaces[currentPlaceId] then
 	Message.Size = UDim2.new(1, -30, 0, 100)
 	Message.Position = UDim2.new(0, 15, 0, 55)
 	Message.BackgroundTransparency = 1
-	Message.Text = "This script only for Criminality\n\nIf u running this script on Crim Modded\nit can not work\n\nIf u dont care click Continue"
+	Message.Text = "This script only for Criminality\n\nIf u running this script in Crim Modded\nit can not work\n\nIf u dont care click Continue"
 	Message.TextColor3 = Color3.fromRGB(210, 210, 210)
 	Message.TextSize = 14
 	Message.Font = Enum.Font.Gotham
