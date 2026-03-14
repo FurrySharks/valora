@@ -15,7 +15,7 @@
       ·     ··                                             ·                                                                                                 ·    
 
   BloodLover obfuscator | created by 7g0d
-
+hi skid your asshole will hurt if you continue doing it
 ]]
 
 local allowedPlaces = {
